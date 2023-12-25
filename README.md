@@ -14,4 +14,4 @@ This is a simple Quiz App built with React to test and enhance your knowledge on
 1. Clone the repository to your local machine:
 
    ```bash
-   
+  git clone https://github.com/AleezaMahsood/QuizApp.git
